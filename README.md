@@ -1,10 +1,6 @@
-# Hii 👋 I'm Ankita Parihar
+# Hii 👋 I'm kAMALPREET
 
-## 👩‍💻 About Me
-- 🎓 M.Tech Graduate in Computer Science & Engineering  
-- 🌱 Currently exploring **Cybersecurity**, **Machine Learning**, and **Quantum Computing**  
-- 💻 Skilled in **C++, HTML, CSS**  
-- 📊 Passionate about Research & Development  
+
 
 ---
 
