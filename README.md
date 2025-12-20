@@ -1,4 +1,4 @@
-# Hii 👋 I'm kAMALPREET
+# Hii 👋 I'm KAMALPREET KAUR
 
 
 
